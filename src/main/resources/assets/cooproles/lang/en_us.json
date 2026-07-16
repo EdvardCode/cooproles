@@ -1,0 +1,20 @@
+{
+  "role.cooproles.miner": "Miner",
+  "role.cooproles.builder": "Builder",
+  "role.cooproles.crafter": "Crafter",
+  "role.cooproles.warrior": "Warrior",
+  "role.cooproles.none": "No Role",
+
+  "warning.cooproles.miner": "Only the Miner can break blocks!",
+  "warning.cooproles.builder": "Only the Builder can place blocks!",
+  "warning.cooproles.crafter": "Only the Crafter can use this!",
+  "warning.cooproles.warrior": "Only the Warrior can fight!",
+
+  "command.cooproles.on": "CoopRoles mod ENABLED! Roles are active.",
+  "command.cooproles.off": "CoopRoles mod DISABLED! Players can do anything.",
+  "command.cooproles.your_role": "Your current role: %s",
+  "command.cooproles.set_role_admin": "Role of player %s changed to: %s",
+  "command.cooproles.set_role_player": "You have been granted the role: %s",
+
+  "hud.cooproles.role": "Role: %s"
+}

@@ -1,0 +1,20 @@
+{
+  "role.cooproles.miner": "Добытчик",
+  "role.cooproles.builder": "Строитель",
+  "role.cooproles.crafter": "Ремесленник",
+  "role.cooproles.warrior": "Воин",
+  "role.cooproles.none": "Без роли",
+
+  "warning.cooproles.miner": "Только Добытчик может ломать блоки!",
+  "warning.cooproles.builder": "Только Строитель может ставить блоки!",
+  "warning.cooproles.crafter": "Только Ремесленник может использовать это!",
+  "warning.cooproles.warrior": "Только Воин может сражаться!",
+
+  "command.cooproles.on": "Мод CoopRoles ВКЛЮЧЕН! Роли активны.",
+  "command.cooproles.off": "Мод CoopRoles ВЫКЛЮЧЕН! Игроки могут делать всё.",
+  "command.cooproles.your_role": "Ваша текущая роль: %s",
+  "command.cooproles.set_role_admin": "Роль игрока %s изменена на: %s",
+  "command.cooproles.set_role_player": "Вам выдана роль: %s",
+
+  "hud.cooproles.role": "Роль: %s"
+}

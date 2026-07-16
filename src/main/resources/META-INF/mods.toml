@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="cooproles"
+version="1.0.0"
+displayName="Coop Roles"
+authors="edvardcode"
+description='''
+Асимметричный кооперативный мод для выживания с друзьями. \\ An asymmetrical cooperative mod for survival with friends.
+Каждый игрок должен выбрать свою роль: \\ Each player must choose their own role.:
+- Добытчик (ломает блоки) \\ Miner (breaks blocks)
+- Строитель (ставит блоки) \\ Builder (puts blocks)
+- Ремесленник (крафтит и плавит) \\ Crafter (crafts and melts)
+- Воин (сражается с мобами) \\ Warrior (fights mobs)
+Выживайте вместе, ведь поодиночке вы ничего не сможете! \\ Survive together, because you can't do
+Управление: /cooproles \\ Management: /cooproles
+'''
+
+[[dependencies.cooproles]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.cooproles]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
